@@ -3,6 +3,6 @@ function x = chirpTone(T,f1,f2,fs)
     time = 0:ts:T; %time array
     %instead of a cosine, we introduce the phase -pi/2 for a sine
     x = chirp(time, f1, T, f2,"linear",-pi/2);
-    plot (x);
-    title("Synthetic signal");
+    %f = f1:(f2-f1)/(length(time)-1):f2
+    %x = sin(2*pi*f*time);
 end
