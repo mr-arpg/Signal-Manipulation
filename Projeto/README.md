@@ -6,8 +6,11 @@
 **Illustrations:**
 
 <img src="Data/original.png" alt="Original Lesions" width="400"/>
-<img src="Data/masked.png" alt="Final Result" width="400"/>
-<img src="Data/clusters.png" alt="Clusters" width="400"/>
+<div style="display: flex;">
+    <img src="Data/masked.png" alt="Masked Image" width="200" />
+    <img src="Data/clusters.png" alt="Clusters Image" width="200" />
+</div>
+
 
 
 ## **Abstract:**  
