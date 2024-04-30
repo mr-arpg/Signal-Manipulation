@@ -18,4 +18,4 @@ This project utilizes MATLAB to classify 10 skin lesion images as benign or mali
 
 
 **Note:**  
-For further details and implementation code, refer to the project documentation and MATLAB scripts.
+For further details and implementation code, check the pdf file.
