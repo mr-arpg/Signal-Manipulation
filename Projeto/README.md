@@ -1,6 +1,6 @@
-# Principles of Biosignals and Biomedical Imaging - MATLAB Image Processing of Dermoscopic Images
+# MATLAB Image Processing of Dermoscopic Images
 
-**Authors:** Armando Gonçalves, Patrcia Marques  
+**Authors:** Armando Gonçalves, Patrícia Marques  
 
 ## **Abstract:**  
 This project utilizes MATLAB to classify 10 skin lesion images as benign or malignant based on their standard deviation and circularity. By combining image processing and cluster analysis, the project aims to assist in identifying melanomas and distinguishing them from keratosis-like lesions. The study showcases the importance of computer-aided analysis in dermatology and demonstrates MATLAB's potential as a tool for image analysis and classification.
